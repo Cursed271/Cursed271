@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Steven Pereira also known as Cursed.</h1>
-<h3 align="center">A passionate penetration tester from India</h3>
+<h1 align="center">Hi 👋, I'm Steven Pereira.</h1>
+<h3 align="center">I'm also known as Cursed. I'm a passionate Penetration Tester from India. I'm currently working as a Consultant 3 in Protiviti India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cursed271&label=Profile%20views&color=0e75b6&style=flat" alt="cursed271" /> </p>
 
