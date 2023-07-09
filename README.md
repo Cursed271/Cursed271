@@ -1,3 +1,4 @@
+![Header](https://github.com/Cursed271/Cursed271/blob/main/Header.png)
 
 ## About Me
 
