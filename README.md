@@ -1,18 +1,18 @@
 ![Header](https://github.com/Cursed271/Cursed271/blob/main/Banner.png)
 
-# 🦾 About Me
+# 📖 About Me
 
-👋 Hello, fellow developers! I'm Cursed, a passionate Penetration Tester with a love for all things code.
+- Hello, fellow developers! I'm Cursed, a passionate Penetration Tester with a love for all things code.
 
-🌱 Currently on a journey of continuous learning and exploration, diving into various technologies and programming languages. 
+- Currently on a journey of continuous learning and exploration, diving into various technologies and programming languages. 
 
-💼 I work as a Consultant 3 at Protiviti, where I perform penetration testing assessments for various clients and collaborate with an amazing team.
+- I work as a Consultant 3 at Protiviti, where I perform penetration testing assessments for various clients and collaborate with an amazing team.
 
-🔭 I'm deeply interested in Penetration Testing and Coding, and I enjoy solving complex problems and building innovative solutions.
+- I'm deeply interested in Penetration Testing and Coding, and I enjoy solving complex problems and building innovative solutions.
 
-🏸 When I'm not coding, you can find me smashing opponents on the Badminton court or playing the Ukulele for my pets.
+- When I'm not coding, you can find me smashing opponents on the Badminton court or playing the Ukulele for my pets.
 
-📫 Let's connect! Feel free to reach out to me via LinkedIn.
+- Let's connect! Feel free to reach out to me via LinkedIn.
 
 # 🛠  Technologies and tools
 
