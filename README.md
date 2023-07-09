@@ -14,11 +14,6 @@
 
 - Let's connect! Feel free to reach out to me via LinkedIn.
 
-## 🔏  Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🛠  Technologies and tools
 
 - Programming Languages:
@@ -54,8 +49,6 @@
 - Notekeeping:
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-## 📖  What I am currently learning / improving on
+## 
 
-## 👾  What I am interested in learning at some point
-
-## 🔍  Where to find me
+## Where to find me?
