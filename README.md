@@ -14,7 +14,7 @@
 
 - Let's connect! Feel free to reach out to me via LinkedIn.
 
-## Blogs
+## 📚  Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [Quishing: Unveiling the Hidden Dangers of QR Codes.](https://blackscreenofdeath.medium.com/quishing-unveiling-the-hidden-dangers-of-qr-codes-649ca9f81c76?source=rss-19c3ece47976------2)
@@ -56,6 +56,21 @@
 - Notekeeping:
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-## 
+## 🔎  Where to find me?
 
-## Where to find me?
+- Twitter: @cursed271
+
+- LinkedIn: @stevie271
+
+- Medium: blackscreenofdeath.medium.com
+
+- Dev.To: @cursed271
+
+- Discord: @cursed271
+
+## 🫶🏻  Support
+
+- If you liked my projects and my blogs, please give it a like.
+
+- Get me a coffee over ![here](https://www.buymeacoffee.com/cursed271)
+
