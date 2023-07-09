@@ -14,6 +14,11 @@
 
 - Let's connect! Feel free to reach out to me via LinkedIn.
 
+## Blogs
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🛠  Technologies and tools
 
 - Programming Languages:
