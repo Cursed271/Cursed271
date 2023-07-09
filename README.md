@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Steven Pereira.</h1>
-<h3 align="center">I'm also known as Cursed. I'm a passionate Penetration Tester from India.</h3>
-
 # Hello! 👋🏼
 
-My name is Steven Pereira. I am a Penetration Tester living in Mumbai, India. 🪷
+My name is Steven Pereira (Cursed). I am a Penetration Tester living in Mumbai, India. 🪷
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
