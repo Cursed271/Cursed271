@@ -1,6 +1,6 @@
 ![Header](https://github.com/Cursed271/Cursed271/blob/main/Banner.png)
 
-# About Me
+# 🦾 About Me
 
 👋 Hello, fellow developers! I'm Cursed, a passionate Penetration Tester with a love for all things code.
 
@@ -14,7 +14,7 @@
 
 📫 Let's connect! Feel free to reach out to me via LinkedIn.
 
-## 🛠  Technologies and tools
+# 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 
