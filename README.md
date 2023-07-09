@@ -70,7 +70,7 @@
 
 ## 🫶🏻  Support
 
-- If you liked my projects and my blogs, please give it a like.
+- If you enjoyed my projects and blogs, please give them a like.
 
-- Get me a coffee over ![here](https://www.buymeacoffee.com/cursed271)
+- You can support me by buying me a coffee [here](https://www.buymeacoffee.com/cursed271).
 
