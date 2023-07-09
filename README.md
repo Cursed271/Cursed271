@@ -1,8 +1,13 @@
 # Hello! 👋🏼
 
-My name is Steven Pereira (Cursed). I am a Penetration Tester living in Mumbai, India. 🪷
+My name is Steven Pereira (Cursed).
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+## About Me
+
+- I'm a Penetration Tester from India.
+- I'm currently working as a Consultant 3 in Protiviti India.
+- At work, I focus on Network Penetration Testing, Web Application Penetration Testing, API Penetration Testing, Mobile Application Penetration Testing, Configuration Reviews, Code Reviews, SOC Monitoring and Analysis (Log Monitoring, Endpoint Monitoring, Vulnerability and Patch Management), and ISO 27001 Internal Audits.
+- My Certifications: CEH - Master, CPENT, LPT - Master, OSCP (Currently Pursuing), and TryHackMe Jr. Penetration Tester.
 
 ## 🛠  Technologies and tools
 
