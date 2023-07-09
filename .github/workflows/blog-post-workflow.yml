@@ -1,17 +1,16 @@
-name: Update_Blog
+name: Update_blog
 on:
-  workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
-permissions:
-      contents: write
+    # Runs at 00:00 UTC every day.
+    - cron: "* * * * *"
+
 jobs:
-  update-readme-with-blog:
-    name: Update_Blog
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          comment_tag_name: "BLOG"
-          feed_list: "https://blackscreenofdeath.medium.com/"
+          feed-url: https://blackscreenofdeath.medium.com/
+          readme-section: feed
+          max: 5
+          template: "* [{{ title }}]({{ link }})"
