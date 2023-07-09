@@ -16,10 +16,10 @@
 
 ## 🔏  Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG:START -->
 - [Quishing: Unveiling the Hidden Dangers of QR Codes.](https://blackscreenofdeath.medium.com/quishing-unveiling-the-hidden-dangers-of-qr-codes-649ca9f81c76?source=rss-19c3ece47976------2)
 - [Exploiting EternalBlue &lpar;Blue&rpar;](https://blackscreenofdeath.medium.com/exploiting-eternalblue-blue-1c1c500b21b1?source=rss-19c3ece47976------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:END -->
 
 ## 🛠  Technologies and tools
 
