@@ -1,6 +1,3 @@
-# Hello! 👋🏼
-
-My name is Steven Pereira (Cursed).
 
 ## About Me
 
