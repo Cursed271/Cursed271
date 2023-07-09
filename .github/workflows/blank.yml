@@ -1,9 +1,9 @@
-name: Latest blog post profile workflow manual
+name: Update
 on: 
     workflow_dispatch:
 jobs: 
     update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
+        name: Update
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
