@@ -17,6 +17,7 @@
 ## 📚  Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Defending against the Microsoft Zero Day Attack](https://blackscreenofdeath.medium.com/defending-against-the-microsoft-zero-day-attack-81b20a60a2f4?source=rss-19c3ece47976------2)
 - [Quishing: Unveiling the Hidden Dangers of QR Codes.](https://blackscreenofdeath.medium.com/quishing-unveiling-the-hidden-dangers-of-qr-codes-649ca9f81c76?source=rss-19c3ece47976------2)
 - [Exploiting EternalBlue &lpar;Blue&rpar;](https://blackscreenofdeath.medium.com/exploiting-eternalblue-blue-1c1c500b21b1?source=rss-19c3ece47976------2)
 <!-- BLOG-POST-LIST:END -->
