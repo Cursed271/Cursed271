@@ -17,11 +17,11 @@
 ## 📚  Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Ransomware: A Growing CyberSecurity Threat](https://blackscreenofdeath.medium.com/ransomware-a-growing-cybersecurity-threat-9b93b7b4db3d?source=rss-19c3ece47976------2)
-- [MoveIT Zero-Day: What did I learn from it?](https://blackscreenofdeath.medium.com/moveit-zero-day-what-did-i-learn-from-it-cd7bcad86174?source=rss-19c3ece47976------2)
-- [Defending against the Microsoft Zero Day Attack](https://blackscreenofdeath.medium.com/defending-against-the-microsoft-zero-day-attack-81b20a60a2f4?source=rss-19c3ece47976------2)
-- [Quishing: Unveiling the Hidden Dangers of QR Codes.](https://blackscreenofdeath.medium.com/quishing-unveiling-the-hidden-dangers-of-qr-codes-649ca9f81c76?source=rss-19c3ece47976------2)
-- [Exploiting EternalBlue &lpar;Blue&rpar;](https://blackscreenofdeath.medium.com/exploiting-eternalblue-blue-1c1c500b21b1?source=rss-19c3ece47976------2)
+- [Ransomware: A Growing CyberSecurity Threat](https://cursed271.medium.com/ransomware-a-growing-cybersecurity-threat-9b93b7b4db3d?source=rss-19c3ece47976------2)
+- [MoveIT Zero-Day: What did I learn from it?](https://cursed271.medium.com/moveit-zero-day-what-did-i-learn-from-it-cd7bcad86174?source=rss-19c3ece47976------2)
+- [Defending against the Microsoft Zero Day Attack](https://cursed271.medium.com/defending-against-the-microsoft-zero-day-attack-81b20a60a2f4?source=rss-19c3ece47976------2)
+- [Quishing: Unveiling the Hidden Dangers of QR Codes.](https://cursed271.medium.com/quishing-unveiling-the-hidden-dangers-of-qr-codes-649ca9f81c76?source=rss-19c3ece47976------2)
+- [Exploiting EternalBlue &lpar;Blue&rpar;](https://cursed271.medium.com/exploiting-eternalblue-blue-1c1c500b21b1?source=rss-19c3ece47976------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠  Technologies and tools
