@@ -17,11 +17,11 @@
 ## 📚  Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the CRTP Certification](https://cursed271.medium.com/mastering-the-crtp-certification-ba9c63a74ca3?source=rss-19c3ece47976------2)
 - [From Beginner to Red Teamer: My Journey to the CRTP Certification](https://cursed271.medium.com/from-beginner-to-red-teamer-my-journey-to-the-crtp-certification-2ef260892b52?source=rss-19c3ece47976------2)
 - [Ransomware: A Growing CyberSecurity Threat](https://cursed271.medium.com/ransomware-a-growing-cybersecurity-threat-9b93b7b4db3d?source=rss-19c3ece47976------2)
 - [MoveIT Zero-Day: What did I learn from it?](https://cursed271.medium.com/moveit-zero-day-what-did-i-learn-from-it-cd7bcad86174?source=rss-19c3ece47976------2)
 - [Defending against the Microsoft Zero Day Attack](https://cursed271.medium.com/defending-against-the-microsoft-zero-day-attack-81b20a60a2f4?source=rss-19c3ece47976------2)
-- [Quishing: Unveiling the Hidden Dangers of QR Codes.](https://cursed271.medium.com/quishing-unveiling-the-hidden-dangers-of-qr-codes-649ca9f81c76?source=rss-19c3ece47976------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠  Technologies and tools
