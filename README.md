@@ -2,7 +2,7 @@
 
 ## 📖  About Me
 
-- Hello, fellow developers! I'm Cursed, a passionate Penetration Tester with a love for all things code.
+- Hello, fellow developers! I'm Cursed, a passionate Red Teamer with a love for all things code.
 
 - Currently on a journey of continuous learning and exploration, diving into various technologies and programming languages. 
 
