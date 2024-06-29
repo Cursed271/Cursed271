@@ -6,7 +6,7 @@
 
 - Currently on a journey of continuous learning and exploration, diving into various technologies and programming languages. 
 
-- I work as a Consultant 3 at Protiviti, where I perform penetration testing assessments for various clients and collaborate with an amazing team.
+- I work as a Senior Consultant at Protiviti, where I perform penetration testing assessments for various clients and collaborate with an amazing team.
 
 - I'm deeply interested in Penetration Testing and Coding, and I enjoy solving complex problems and building innovative solutions.
 
