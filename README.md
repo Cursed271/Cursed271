@@ -17,11 +17,11 @@
 ## 📚  Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [On July 19th, 2024, Crowdstrike, a prominent provider of endpoint security and threat intelligence…](https://cursed271.medium.com/on-july-19th-2024-crowdstrike-a-prominent-provider-of-endpoint-security-and-threat-intelligence-8a9ab9dff1d6?source=rss-19c3ece47976------2)
 - [Mastering the CRTP Certification](https://cursed271.medium.com/mastering-the-crtp-certification-ba9c63a74ca3?source=rss-19c3ece47976------2)
 - [From Beginner to Red Teamer: My Journey to the CRTP Certification](https://cursed271.medium.com/from-beginner-to-red-teamer-my-journey-to-the-crtp-certification-2ef260892b52?source=rss-19c3ece47976------2)
 - [Ransomware: A Growing CyberSecurity Threat](https://cursed271.medium.com/ransomware-a-growing-cybersecurity-threat-9b93b7b4db3d?source=rss-19c3ece47976------2)
 - [MoveIT Zero-Day: What did I learn from it?](https://cursed271.medium.com/moveit-zero-day-what-did-i-learn-from-it-cd7bcad86174?source=rss-19c3ece47976------2)
-- [Defending against the Microsoft Zero Day Attack](https://cursed271.medium.com/defending-against-the-microsoft-zero-day-attack-81b20a60a2f4?source=rss-19c3ece47976------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠  Technologies and tools
