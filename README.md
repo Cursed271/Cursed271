@@ -2,60 +2,53 @@
 
 <img src="https://raw.githubusercontent.com/Cursed271/Cursed271/main/Banner.png" alt="Cursed271" width="100%" />
 
-<h1 align="center">Steven Pereira aka Cursed
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=3000&pause=1000&color=C6ECE3&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Security+Researcher;Cybersecurity+Educator" alt="Typing SVG" />
-</h1>
+<h1>Steven Pereira aka Cursed</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-C6ECE3?style=for-the-badge&labelColor=262626&color=C6ECE3" />
-  <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-C6ECE3?style=for-the-badge&labelColor=262626&color=C6ECE3" />
-  <img src="https://img.shields.io/badge/BASE-TOKYO%2C_JP-C6ECE3?style=for-the-badge&labelColor=262626&color=C6ECE3" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=3000&pause=1000&color=C6ECE3&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Adversary+Simulation+%26+Evasion;Offensive+Security+Researcher" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-C6ECE3?style=for-the-badge&labelColor=262626&color=C6ECE3" alt="Status" />
+  <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-C6ECE3?style=for-the-badge&labelColor=262626&color=C6ECE3" alt="Focus" />
+  <img src="https://img.shields.io/badge/BASE-TOKYO%2C_JAPAN-C6ECE3?style=for-the-badge&labelColor=262626&color=C6ECE3" alt="Base" />
+</p>
 
 </div>
 
-I’m **Cursed** - a red team operator, offensive-security researcher, and cybersecurity educator.
+---
 
-I work at the intersection of **adversary simulation, purple teaming, application security, and detection-oriented offensive research**. My work is about more than finding vulnerabilities: it is about understanding how real attackers operate, validating whether defenses actually hold, and turning offensive insight into practical security improvements.
+<h2 style="color: #C6ECE3;">⚡ Operational Overview</h2>
 
-I build tooling, document methodology, write technical content, and continuously explore the evolving attack surface across enterprise systems, cloud environments, mobile applications, APIs, and modern client technologies.
+I am **Cursed** — a red team operator and offensive security researcher operating out of Tokyo.
 
-> **Current research interests:** browser sandbox escape, Win32 API security scripting, adversary emulation, security-control evasion, and purple-team detection validation.
+My focus sits at the intersection of **adversary emulation, security-control evasion, purple teaming, and low-level attack surface exploration**. My objective is not simply finding vulnerabilities; it is validating whether defensive architectures withstand real-world tradecraft, deconstructing attacker pathways, and translating offensive intelligence into measurable security posture improvements.
 
-<h2 style="color: #C6ECE3;">About Me 🪪</h2>
+> **Active Research Vectors:** Browser sandbox escapes, Win32 API abuse & internals, evasion of modern EDR/XDR telemetry, gRPC/API exploitation, and purple-team detection engineering loops.
 
-#### 🚀 Senior Cybersecurity Manager at Nomura Holdings
-- Specializing in penetration testing, red teaming, and security architecture reviews for high-profile clients
-- Helping organizations identify and mitigate cybersecurity risks while improving their security posture
-- Expert in developing custom security tools that enhance offensive security capabilities
-- Conducting Cloud Security Assessments and delivering tailored cybersecurity strategies for businesses
+---
 
-#### 🎸 When I'm not testing defenses, you’ll find me:
-- Smashing opponents on the badminton court
-- Playing the ukulele for my pets
-- Exploring new tech innovations, experimenting with creative coding projects, and testing cutting-edge tools
-- Watching anime and diving into gaming to recharge and stay inspired
+<h2 style="color: #C6ECE3;">🪪 Background & Focus</h2>
 
-#### 🔒 My Mission
-- Passionate advocate for privacy, open-source development, and cybersecurity awareness
-- Empowering individuals and organizations to navigate the digital world securely
-- Focused on promoting secure coding practices, data protection, and making the internet a safer place
-- Actively contributing to the cybersecurity community through open-source security tools and thought leadership
+- **Role:** Senior Cybersecurity Manager at Nomura Holdings
+- **Domain:** Adversary simulation, penetration testing, and security architecture reviews across enterprise infrastructure
+- **Tradecraft:** Developing offensive tooling, mapping custom attack scenarios against MITRE ATT&CK, and bridging the offensive-to-detection divide
+- **Philosophy:** Ruthless technical verification over compliance theater
 
-<h3 style="color: #C6ECE3;">What you'll find here 🚀</h3>
+---
 
-- 🔧 Innovative Tools - Explore my Python-based cybersecurity projects designed to solve real-world security challenges. From network vulnerability scanning to cloud security assessments, my tools are built to enhance your offensive security capabilities and streamline penetration testing.
-- 🛡️ Cybersecurity Projects - Discover a collection of penetration testing scripts and vulnerability assessment tools focused on network security, web application security, cloud security, and red teaming. These projects are built to address a variety of security needs, from external threat reconnaissance to system hardening.
-- 💻 Development Experiments - Explore my coding experiments and tech projects, where I push the envelope in areas like AI integration, ethical hacking, and automation. These projects reflect my skills in software development, cybersecurity tool creation, and my passion for innovative solutions.
-- 🌐 Open-Source Contributions - Check out my open-source contributions in cybersecurity, with a focus on security automation, threat intelligence, and cloud security posture management. I actively contribute to the cybersecurity community, ensuring that best practices and cutting-edge tools remain accessible to all.
+<h2 style="color: #C6ECE3;">🚀 Repository Highlights</h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- 🔧 **Custom Offensive Tooling** — Practical scripts, loaders, and utilities engineered for automated reconnaissance, triage, and adversary emulation workflows.
+- 🛡️ **Penetration Testing Frameworks** — Structured checklists, assessment templates, and PoCs covering active directory, cloud setups, web APIs, and mobile binaries.
+- 💻 **Security R&D Labs** — Experimental exploits, Win32 API automation, and client-side research exploring attack surfaces across modern sandboxes.
+- 🌐 **Open-Source Artifacts** — Public contributions, detection validation templates, and research notes shared to advance empirical defensive and offensive engineering.
 
-<h3 style="color: #C6ECE3;">My Skills (Services) ⚔️</h3>
+---
 
-<table align="center">
+<h2 style="color: #C6ECE3;">⚔️ Tactical Arsenal</h2>
+
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -110,7 +103,7 @@ I build tooling, document methodology, write technical content, and continuously
 </td>
 <td width="50%" valign="top">
 
-#### Operating Systems: 
+#### Operating Systems
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=linux&logoColor=C6ECE3&logoSize=20&color=262626)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-black?style=flat-square&logo=linux&logoColor=C6ECE3&logoSize=20&color=262626)
 ![Manjaro Linux](https://img.shields.io/badge/Manjaro_Linux-black?style=flat-square&logo=linux&logoColor=C6ECE3&logoSize=20&color=262626)
@@ -121,91 +114,74 @@ I build tooling, document methodology, write technical content, and continuously
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<h2 style="color: #C6ECE3;">Writing & Research ✍️</h2>
+<h2 style="color: #C6ECE3;">✍️ Writing, Rants & Technical Research</h2>
 
-I write **rants, walkthroughs, and research notes** about the parts of security that do not fit neatly into a slide deck.
-
-Mostly, I rant about broken assumptions, overcomplicated security advice, weak detection strategies, and the gap between how attacks actually work and how organizations think they work. Then I back it up with practical walkthroughs, technical research, and educational material that makes complex security concepts usable in the real world.
+I publish walkthroughs, tactical methodologies, and blunt takes on industry theater—dissecting weak detection strategies and the gap between theoretical defense and adversary realities.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7495678678643757056">
-  <img src="https://img.shields.io/badge/READ_ON_LINKEDIN-@cursed271-C6ECE3?style=for-the-badge&logoColor=C6ECE3&labelColor=262626" />
+  <img src="https://img.shields.io/badge/NEWSLETTER-READ_ON_LINKEDIN-C6ECE3?style=for-the-badge&logoColor=262626&labelColor=262626&color=C6ECE3" alt="LinkedIn Newsletter" />
+</a>
+<a href="https://medium.com/@cursed271">
+  <img src="https://img.shields.io/badge/ARTICLES-READ_ON_MEDIUM-C6ECE3?style=for-the-badge&logoColor=262626&labelColor=262626&color=C6ECE3" alt="Medium" />
 </a>
 
 </div>
 
-### What I Write
+#### Key Research Topics:
+- **Tradecraft & Evasion:** Real-world lateral movement, persistence, and telemetry bypasses.
+- **Purple Teaming:** Turning raw offensive findings into hardened detection engineering rules.
+- **Client & Endpoint Internals:** Win32 API scripting, process injection, and browser sandbox boundaries.
+- **Application Security:** Exploitation pipelines across modern APIs, gRPC, and mobile runtimes.
 
-- **Rants** - blunt takes on security theater, bad practices, broken processes, and the realities of offensive security
-- **Walkthroughs** - hands-on technical guides for exploitation, tooling, automation, and assessment workflows
-- **Research notes** - ongoing notes on browser sandboxing, Windows internals, Win32 APIs, and modern attack surface
-- **Educational content** - practical explanations designed to make offensive and defensive security concepts actually usable
+---
 
-### Selected Topics
+<h2 style="color: #C6ECE3;">🎯 Active Research & Development</h2>
 
-- Red teaming and adversary simulation
-- Purple teaming and detection engineering
-- Mobile application and API security
-- Cloud security and attack-path analysis
-- Windows internals and Win32 API security
-- Browser sandboxing and escape research
-- Secure coding and security automation
+- 🔬 Investigating browser sandbox escape mechanics and client-side attack surfaces
+- 🪟 Developing custom offensive utilities leveraging Win32 APIs and native process hooks
+- 🟣 Engineering structured purple-team simulation frameworks for enterprise detection validation
+- ✍️ Authoring advanced offensive-security manuals, methodology sheets, and technical deep-dives
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-<h2 style="color: #C6ECE3;">Currently 🎯</h2>
+<h2 style="color: #C6ECE3;">🌐 Secure Channels</h2>
 
-- 🔬 Researching browser sandbox escape techniques and modern client-side attack surface
-- 🪟 Building Win32 API-focused security scripting and offensive tooling
-- 🟣 Developing purple-team material that connects offensive actions to detection outcomes
-- ✍️ Writing technical articles, assessment guides, and educational cybersecurity content
-- 🧩 Exploring automation, AI-assisted security workflows, and creative coding experiments
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 style="color: #C6ECE3;">Let's Connect 🚀</h2>
-
-I’m open to technical collaboration, security research, open-source work, speaking, writing, and meaningful conversations across offensive security, purple teaming, cloud security, and application security.
+Open for high-level technical exchange, adversary research collaboration, and red team discourse.
 
 <div align="center">
 
 <a href="https://github.com/Cursed271">
-  <img src="https://img.shields.io/badge/GitHub-Cursed271-C6ECE3?style=for-the-badge&logo=github&logoColor=C6ECE3&labelColor=262626" />
+  <img src="https://img.shields.io/badge/GitHub-Cursed271-C6ECE3?style=for-the-badge&logoColor=C6ECE3&labelColor=262626" alt="GitHub" />
 </a>
-
 <a href="https://www.cursedsec.com/">
-  <img src="https://img.shields.io/badge/Website-CursedSec.com-C6ECE3?style=for-the-badge&logo=googlechrome&logoColor=C6ECE3&labelColor=262626" />
+  <img src="https://img.shields.io/badge/Website-CursedSec.com-C6ECE3?style=for-the-badge&logoColor=C6ECE3&labelColor=262626" alt="Website" />
 </a>
-
 <a href="https://medium.com/@cursed271">
-  <img src="https://img.shields.io/badge/Medium-@cursed271-C6ECE3?style=for-the-badge&logo=medium&logoColor=C6ECE3&labelColor=262626" />
+  <img src="https://img.shields.io/badge/Medium-@cursed271-C6ECE3?style=for-the-badge&logoColor=C6ECE3&labelColor=262626" alt="Medium" />
 </a>
-
 <a href="https://www.linkedin.com/in/cursed271/">
-  <img src="https://img.shields.io/badge/LinkedIn-Steven_Pereira-C6ECE3?style=for-the-badge&logo=linkedin&logoColor=C6ECE3&labelColor=262626" />
+  <img src="https://img.shields.io/badge/LinkedIn-Steven_Pereira-C6ECE3?style=for-the-badge&logoColor=C6ECE3&labelColor=262626" alt="LinkedIn" />
 </a>
-
 <a href="https://x.com/cursed271">
-  <img src="https://img.shields.io/badge/Twitter-@cursed271-C6ECE3?style=for-the-badge&logo=x&logoColor=C6ECE3&labelColor=262626" />
+  <img src="https://img.shields.io/badge/X-@cursed271-C6ECE3?style=for-the-badge&logoColor=C6ECE3&labelColor=262626" alt="Twitter" />
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<h2 style="color: #C6ECE3;">Let's Play a Game 🐍</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Cursed271/Cursed271/output/snake-mint.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<h2 style="color: #C6ECE3;">🐍 Let's Play a Game</h2>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Cursed271&label=PROFILE+VIEWS&color=C6ECE3&style=for-the-badge&labelColor=262626" />
+<img src="https://raw.githubusercontent.com/Cursed271/Cursed271/output/snake-mint.svg" alt="Snake animation" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Cursed271&label=PROFILE+VIEWS&color=C6ECE3&style=for-the-badge&labelColor=262626" alt="Profile Views" />
 
 </div>
