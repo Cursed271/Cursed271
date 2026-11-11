@@ -1,0 +1,66 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+      - "README.md"
+      - "Banner.png"
+
+permissions: {}
+
+concurrency:
+  group: contribution-snake-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'Cursed271/Cursed271'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=%23262626&color_dots=%23ebedf0,%23dceee8,%23b7dcd1,%2384bbaa,%23588778
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-mint.svg?color_snake=%23C6ECE3&color_dots=%23262626,%233d3d3d,%235a5a5a,%23C6ECE3,%237fffd4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate generated SVGs
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          for name in ("snake.svg", "snake-dark.svg", "snake-mint.svg"):
+              path = Path("dist") / name
+              if not path.is_file() or path.stat().st_size == 0:
+                  raise SystemExit(f"Missing or empty SVG: {path}")
+              root = ET.parse(path).getroot()
+              if root.tag.rsplit("}", 1)[-1] != "svg":
+                  raise SystemExit(f"Unexpected root element: {path}")
+          PY
+
+      - name: Publish SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          allow_empty_commit: false
+          jekyll: false
+          commit_message: "chore: refresh contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
